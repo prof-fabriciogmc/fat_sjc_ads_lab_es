@@ -1,0 +1,10 @@
+button{
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;    
+}
+
+.container{    
+    margin: auto;
+    width: 30vw;
+}

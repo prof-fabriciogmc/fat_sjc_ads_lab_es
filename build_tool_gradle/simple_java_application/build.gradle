@@ -1,0 +1,16 @@
+plugins{
+    id 'java'
+    id 'application'
+}
+
+mainClassName = 'MinhaClasse'
+
+sourceSets{
+    main{
+        java{
+            srcDirs 'src/main'
+        }
+    }
+    
+}
+
